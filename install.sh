@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -f "/usr/local/mgr5/sbin/mgrctl" ]
+if [ -f "/usr/local/mgr5/sbin/mgrctl" ] ;
 then
           echo "Start installation"
           cd /tmp && wget -O ra-for-ispmanlite.zip https://raw.githubusercontent.com/ra-repos/isp/master/ra-for-ispmanlite.zip && \

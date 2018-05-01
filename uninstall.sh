@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -f "/usr/local/mgr5/sbin/mgrctl" && -d "/usr/local/mgr5/addon/revisium_antivirus"]
+if [ -f "/usr/local/mgr5/sbin/mgrctl" ] && [ -d "/usr/local/mgr5/addon/revisium_antivirus" ] ;
 then
           echo "Start uninstallation"
           cd /tmp && wget -O ra-for-ispmanlite.zip https://raw.githubusercontent.com/ra-repos/isp/master/ra-for-ispmanlite.zip && \
