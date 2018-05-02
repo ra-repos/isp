@@ -1,8 +1,9 @@
 # CDN for RA
 
-How to install
+How to install Revisium Antivirus
 
-Run `wget -O - https://raw.githubusercontent.com/ra-repos/isp/master/install.sh | bash`
+[*] Install php 7.1 with ioncube support (go to "Features" -> "Alternative version PHP 7.1" in the ISPmanager Lite)
+[*] Run `wget -O - https://raw.githubusercontent.com/ra-repos/isp/master/install.sh | bash`
 
 
 How to uninstall
