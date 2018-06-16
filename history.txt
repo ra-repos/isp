@@ -1,0 +1,9 @@
+1.4.3
+
+[+] First public release with ISPmanager integration
+
+1.4.4
+
+[*] Fixed access permissions for ISPmanager superadmins with different names
+[*] Updated malware DB
+[*] Improved installation process
