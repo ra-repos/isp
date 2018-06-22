@@ -1,9 +1,15 @@
-1.4.3
+1.4.5
 
-[+] First public release with ISPmanager integration
+[*] Fixed bug regarding IPv6 
+[+] Added php error logging for Revisium Antivirus
 
 1.4.4
 
 [*] Fixed access permissions for ISPmanager superadmins with different names
 [*] Updated malware DB
 [*] Improved installation process
+
+1.4.3
+
+[+] First public release with ISPmanager integration
+
