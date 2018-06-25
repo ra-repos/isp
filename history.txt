@@ -1,3 +1,8 @@
+1.4.6
+
+[*] Fixed bug with installation of Revisium Antivirus on CentOS 6
+[*] Fixed php notice in the logs
+
 1.4.5
 
 [*] Fixed bug regarding IPv6 
