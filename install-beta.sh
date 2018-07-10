@@ -21,7 +21,7 @@ then
 
           cd /tmp && wget -O ra-for-ispmanlite-beta.zip https://raw.githubusercontent.com/ra-repos/isp/master/ra-for-ispmanlite-beta.zip && \
           unzip ra-for-ispmanlite-beta.zip -d ra-isp-package-0x0000-beta && cd ra-isp-package-0x0000-beta && chmod +x *.sh && \
-          mkdir /usr/local/mgr5/addon/revisium_antivirus/common/ && cp -f ./install.sh /usr/local/mgr5/addon/revisium_antivirus/common/ && /usr/local/mgr5/addon/revisium_antivirus/common/install.sh && \
+          mkdir -p /usr/local/mgr5/addon/revisium_antivirus/common/ && cp -f ./install.sh /usr/local/mgr5/addon/revisium_antivirus/common/ && /usr/local/mgr5/addon/revisium_antivirus/common/install.sh && \
           find /tmp/ra-isp-package-0x0000-beta -delete && rm /tmp/ra-for-ispmanlite-beta.zip && rm /usr/local/mgr5/addon/revisium_antivirus/common/install.sh
 
 else
