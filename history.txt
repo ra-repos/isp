@@ -1,3 +1,11 @@
+1.5.3
+
+[+] Single/multiple file cleanup (group operation and multiple selection supported)
+[+] Single/multiple file restoration after cleanup (group operation and multiple selection supported)
+[*] Improved performance
+[*] Updated malware databases
+[*] Fixed some bugs in settings
+
 1.4.6
 
 [*] Fixed bug with installation of Revisium Antivirus on CentOS 6
