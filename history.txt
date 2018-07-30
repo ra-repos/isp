@@ -1,3 +1,7 @@
+1.5.4
+
+[*] Updated malware databases
+
 1.5.3
 
 [+] Single/multiple file cleanup (group operation and multiple selection supported)
