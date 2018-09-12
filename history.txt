@@ -1,7 +1,11 @@
+1.5.7
+
+[*] Fixed scanning of non-ascii folders
+[*] Updated malware databases
+
 1.5.6
 
 [*] Fixed "Failed to scan" bug after update
-
 
 1.5.5
 
