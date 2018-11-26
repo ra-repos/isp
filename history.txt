@@ -1,3 +1,10 @@
+1.5.9
+
+[+] Added global banner notifications on websites infection and non-configured mail notifications
+[+] Added UX statistics reporting to CloudLinux
+[+] Added new settings to Settings tab
+[*] Updated malware databases
+
 1.5.7
 
 [*] Fixed scanning of non-ascii folders
