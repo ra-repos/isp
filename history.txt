@@ -1,9 +1,10 @@
-1.5.11
+1.5.13
 
 [+] Added global banner notifications on websites infection and non-configured mail notifications
 [+] Added UX statistics reporting to CloudLinux
 [+] Added new settings to Settings tab
 [*] Updated malware databases
+[*] Automatic background scanning once a month (in free version) and configurable (in the Premium)
 
 1.5.7
 
