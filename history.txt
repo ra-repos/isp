@@ -1,3 +1,7 @@
+1.5.16
+[*] Notification banner is shown for root user only
+[*] Fixed incorrect behavior of the plugin when passthru or putenv functions are disabled
+
 1.5.14
 
 [+] Added global banner notifications on websites infection and non-configured mail notifications
