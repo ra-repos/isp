@@ -1,3 +1,7 @@
+1.5.17
+
+[*] Improved malware database update
+
 1.5.16
 [*] Notification banner is shown for root user only
 [*] Fixed incorrect behavior of the plugin when passthru or putenv functions are disabled
