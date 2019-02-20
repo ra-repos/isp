@@ -1,3 +1,9 @@
+1.6.1
+
+[*] Reduced CPU consumption regarding ioncube encoder usage
+[*] Improved malware DB update process
+[*] Fixed cleanup report when no malware has left
+
 1.5.17
 
 [*] Improved malware database update
