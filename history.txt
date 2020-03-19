@@ -1,3 +1,8 @@
+1.6.3
+
+[*] Fixed database update
+[*] Updated malware databases
+
 1.6.2
 
 [*] Changed domain reputation management
