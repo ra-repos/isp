@@ -1,3 +1,9 @@
+1.6.4
+
+[*] Fixed long scan
+[*] Updated malware databases
+
+
 1.6.3
 
 [*] Fixed database update
