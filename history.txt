@@ -1,8 +1,12 @@
+1.6.5
+
+[*] Fixed update scripts
+[*] Updated malware databases
+
 1.6.4
 
 [*] Fixed long scan
 [*] Updated malware databases
-
 
 1.6.3
 
