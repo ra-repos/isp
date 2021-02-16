@@ -1,3 +1,8 @@
+1.6.7
+
+[*] Updated malware databases
+[*] Changed location for distributions
+
 1.6.6
 
 [*] Updated malware databases
